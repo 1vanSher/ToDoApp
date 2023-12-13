@@ -5,7 +5,7 @@ const Task = () =>{
 
     return (
         <View>
-            <Text>This is Task</Text>
+            <Text>Task</Text>
         </View>
     )
 }

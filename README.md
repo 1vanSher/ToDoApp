@@ -14,24 +14,24 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Содержаниеs</summary>
   <ol>
     <li>
-      <a href="#about-the-project">О проекте</a>
+      <a href="#">О проекте</a>
     </li>
     <ul>
-        <li><a href="#built-with">Инструменты</a></li>
+        <li><a href="#">Инструменты</a></li>
       </ul>
     <li>
-      <a href="#getting-started">Начало работы</a>
+      <a href="#">Начало работы</a>
       <ul>
-        <li><a href="#prerequisites">Подготовка к установке</a></li>
-        <li><a href="#installation">Установка</a></li>
+        <li><a href="#">Подготовка к установке</a></li>
+        <li><a href="#">Установка</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Ичспользование</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Контакты</a></li>
+    <li><a href="#">Использование</a></li>
+    <li><a href="#">Roadmap</a></li>
+    <li><a href="#">Контакты</a></li>
   </ol>
 </details>
 
@@ -40,82 +40,58 @@
 <!-- ABOUT THE PROJECT -->
 ## О проекте
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Проект представляет собой удобное и эффективное приложение, разработанное для организации и планирования задач и обязанностей. Он помогает пользователям структурировать свою жизнь, управлять временем и достигать поставленных целей.
+Проект разработан с учетом простоты использования, интуитивного интерфейса и персонализации. Он подходит для широкого круга пользователей, включая студентов, работников, предпринимателей и всех, кто стремится организовать свою жизнь и повысить свою продуктивность. Благодаря этому приложению пользователи смогут эффективно планировать свои задачи, управлять своим временем и достигать успеха в своих делах.
 
 
 
 ### Инструменты
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* React
+* React native
+* Expo
+* VS code
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
 <!-- GETTING STARTED -->
 ## Начало работы
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Для начала работы необходимо подключить телефон к компьютеру и перейти к следующему пункту.
 
 ### Подготовка к установке
 
-This is an example of how to list things you need to use the software and how to install them.
+Подключение react native
 * npm
   ```sh
-  npm install npm@latest -g
+  npx react-native init
   ```
 
 ### Установка
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Клонирование репозитория
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/1vanSher/ToDoApp
    ```
-3. Install NPM packages
+2. Открытие проекта
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   expo start
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Использование
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Введите текст
+2. На кнопку + добавть запись
+3. При нажатии на запись удалите её
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -124,25 +100,25 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Установка React Native
 - [x] Установка Expo
-- [ ] Создание frontend
-    - [ ] Создание первого экрана
-    - [ ] Создание компонента Task
-- [ ] Создание backend
-    - [ ] Props
-    - [ ] useState
-    - [ ] Add button
-    - [ ] Delete
+- [x] Создание frontend
+    - [x] Создание первого экрана
+    - [x] Создание компонента Task
+- [x] Создание backend
+    - [x] Props
+    - [x] useState
+    - [x] Add button
+    - [x] Delete
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contact
 
 Почта - ivan.sher.it@mail.ru
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [[https://github.com/1vanSher/ToDoApp](https://github.com/1vanSher/ToDoApp)]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
